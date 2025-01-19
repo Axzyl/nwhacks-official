@@ -13,17 +13,32 @@ PluginImporter:
   isExplicitlyReferenced: 0
   validateReferences: 1
   platformData:
-    Any:
+    Android:
       enabled: 1
       settings: {}
-    Editor:
+    Any:
       enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
       settings:
         DefaultValueInitialized: true
+    OSXUniversal:
+      enabled: 1
+      settings: {}
+    Win:
+      enabled: 1
+      settings: {}
+    Win64:
+      enabled: 1
+      settings: {}
     WindowsStoreApps:
-      enabled: 0
+      enabled: 1
       settings:
         CPU: AnyCPU
+    XboxOne:
+      enabled: 1
+      settings: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
