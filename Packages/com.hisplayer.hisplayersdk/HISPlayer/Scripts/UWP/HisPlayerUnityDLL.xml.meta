@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e657f6a88ec11417aa9c84d18c73eabc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: Video Player for Short Videos including Video Hosting
+  packageVersion: 4.2.2
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/UWP/HisPlayerUnityDLL.xml
+  uploadId: 701254

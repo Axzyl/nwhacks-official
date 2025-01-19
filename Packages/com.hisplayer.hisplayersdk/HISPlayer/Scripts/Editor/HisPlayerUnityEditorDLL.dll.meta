@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 33b19ec44e8354dfe8c942337367fe0e
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 1
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: Video Player for Short Videos including Video Hosting
+  packageVersion: 4.2.2
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/Editor/HisPlayerUnityEditorDLL.dll
+  uploadId: 701254
